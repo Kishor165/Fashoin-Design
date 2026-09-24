@@ -1,6 +1,2 @@
 # Fashoin-Design
-Fashion 
-Design 
-Project 
-with 
-Database.
+Fashion Design Project with Database.
